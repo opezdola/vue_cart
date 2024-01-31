@@ -25,6 +25,7 @@ img {
 
 .product-image {
     width: 80%;
+
 }
 
 .product-image,
@@ -89,4 +90,14 @@ textarea {
 }
 .outOfStock {
     text-decoration: line-through;
+}
+
+.btn{
+    position: relative;
+    left: 900px;
+    bottom: 290px;
+    display: flex;
+    gap: 50px;
+
+
 }
