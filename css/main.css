@@ -101,3 +101,9 @@ textarea {
 
 
 }
+
+.delete{
+    position: relative;
+    bottom: 170px;
+    left: 140px;
+}
